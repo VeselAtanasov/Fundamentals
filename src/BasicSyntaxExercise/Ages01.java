@@ -1,4 +1,4 @@
 package BasicSyntaxExercise;
 
-public class uhy {
+public class Ages01 {
 }
