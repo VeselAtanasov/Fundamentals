@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class TheatrePromotion07 {
+public class Ex_07_TheatrePromotion {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

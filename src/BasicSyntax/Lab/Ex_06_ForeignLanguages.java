@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class ForeignLanguages06 {
+public class Ex_06_ForeignLanguages {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

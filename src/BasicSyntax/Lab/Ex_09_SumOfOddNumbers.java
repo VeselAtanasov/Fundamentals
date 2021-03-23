@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class SumOfOddNumbers09 {
+public class Ex_09_SumOfOddNumbers {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

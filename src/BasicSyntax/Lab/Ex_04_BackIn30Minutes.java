@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class BackIn30Minutes04 {
+public class Ex_04_BackIn30Minutes {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

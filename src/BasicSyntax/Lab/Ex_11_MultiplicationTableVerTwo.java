@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class MultiplicationTableVerTwo11 {
+public class Ex_11_MultiplicationTableVerTwo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

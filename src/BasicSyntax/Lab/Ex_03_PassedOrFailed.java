@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class PassedorFailed03 {
+public class Ex_03_PassedOrFailed {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class MonthPrinter05 {
+public class Ex_03_MonthPrinter {
 
     public static void main(String[] args) {
 

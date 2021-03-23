@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class StudentInformation01 {
+public class Ex_01_StudentInformation {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

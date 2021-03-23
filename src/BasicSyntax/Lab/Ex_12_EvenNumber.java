@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class EvenNumber12 {
+public class Ex_12_EvenNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

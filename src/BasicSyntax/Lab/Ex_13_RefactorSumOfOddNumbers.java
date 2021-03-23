@@ -1,8 +1,8 @@
-package BasicSyntaxLab;
+package BasicSyntax.Lab;
 
 import java.util.Scanner;
 
-public class RefactorSumOfOddNumbers13 {
+public class Ex_13_RefactorSumOfOddNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
