@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_08_TriangleOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_09_PadawanEquipment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_10_RageExpenses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicSyntax/MoreExercise/Ex_01_SortNumbers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qEyLe0fITxW7Lp5Rw0NZJg6GZc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Ex_10_RageExpenses">
+    <configuration name="Ex_08_TriangleOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntax.Exercise.Ex_08_TriangleOfNumbers" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSyntax.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_09_PadawanEquipment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntax.Exercise.Ex_09_PadawanEquipment" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSyntax.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_10_RageExpenses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicSyntax.Exercise.Ex_10_RageExpenses" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicSyntax.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex_10_RageExpenses" />
+        <item itemvalue="Application.Ex_09_PadawanEquipment" />
+        <item itemvalue="Application.Ex_08_TriangleOfNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="" />
+      <created>1616658991242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616658991242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_09_PadawanEquipment.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
