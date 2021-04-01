@@ -2,50 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/MoreExercise/Ex_01_SortNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/MoreExercise/Ex_02_EnglishNameOfTheLastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/MoreExercise/Ex_03_GamingStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/MoreExercise/Ex_04_ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/MoreExercise/Ex_05_Messages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_01_ConvertMetersToKilometers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_02_PoundsToDollars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_03_ExactSumOfRealNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_04_TownInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_05_ConcatNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_06_CharsToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_07_ReversedChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_08_LowerOrUpper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_09_CenturiesToMinutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_10_SpecialNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_11_RefactorVolumeOfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Lab/Ex_12_RefactorSpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_01_IntegerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_02_SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_03_Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_04_SumOfChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_05_PrintPartOfTheASCIITable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_06_TriplesOfLatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_07_WaterOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_08_BeerKegs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_01_Ages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_01_Ages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_02_Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_02_Division.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_03_Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_03_Vacation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_04_PrintAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_04_PrintAndSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_05_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_05_Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_06_StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_06_StrongNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_07_VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_07_VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_08_TriangleOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_08_TriangleOfNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_09_PadawanEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_09_PadawanEquipment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Exercise/Ex_10_RageExpenses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Exercise/Ex_10_RageExpenses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_01_StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_01_StudentInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_02_Passed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_02_Passed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_03_MonthPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_03_MonthPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_03_PassedOrFailed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_03_PassedOrFailed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_04_BackIn30Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_04_BackIn30Minutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_06_ForeignLanguages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_06_ForeignLanguages.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_07_TheatrePromotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_07_TheatrePromotion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_08_DivisibleBy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_08_DivisibleBy3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_09_SumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_09_SumOfOddNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_10_MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_10_MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_11_MultiplicationTableVerTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_11_MultiplicationTableVerTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_12_EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_12_EvenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/Lab/Ex_13_RefactorSumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_BasicSyntax/Lab/Ex_13_RefactorSumOfOddNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicSyntax/MoreExercise/Ex_01_SortNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals/_02_DataTypesAndVariables/Lab/Ex_11_RefactorVolumeOfPyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fundamentals/_02_DataTypesAndVariables/Lab/Ex_11_RefactorVolumeOfPyramid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -68,19 +36,20 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Application.Ex_11_RefactorVolumeOfPyramid">
-    <configuration name="Ex_07_ReversedChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Lab.Ex_07_ReversedChars" />
+  <component name="RunManager" selected="Application.Ex_08_BeerKegs">
+    <configuration name="Ex_04_SumOfChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_04_SumOfChars" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_08_LowerOrUpper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Lab.Ex_08_LowerOrUpper" />
+    <configuration name="Ex_05_PrintPartOfTheASCIITable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_05_PrintPartOfTheASCIITable" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_09_CenturiesToMinutes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Lab.Ex_09_CenturiesToMinutes" />
+    <configuration name="Ex_06_TriplesOfLatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_06_TriplesOfLatinLetters" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_10_SpecialNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Lab.Ex_10_SpecialNumbers" />
+    <configuration name="Ex_07_WaterOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_07_WaterOverflow" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_11_RefactorVolumeOfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Lab.Ex_11_RefactorVolumeOfPyramid" />
+    <configuration name="Ex_08_BeerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_08_BeerKegs" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Lab.*" />
+          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex_11_RefactorVolumeOfPyramid" />
-        <item itemvalue="Application.Ex_10_SpecialNumbers" />
-        <item itemvalue="Application.Ex_09_CenturiesToMinutes" />
-        <item itemvalue="Application.Ex_08_LowerOrUpper" />
-        <item itemvalue="Application.Ex_07_ReversedChars" />
+        <item itemvalue="Application.Ex_08_BeerKegs" />
+        <item itemvalue="Application.Ex_07_WaterOverflow" />
+        <item itemvalue="Application.Ex_06_TriplesOfLatinLetters" />
+        <item itemvalue="Application.Ex_05_PrintPartOfTheASCIITable" />
+        <item itemvalue="Application.Ex_04_SumOfChars" />
       </list>
     </recent_temporary>
   </component>
@@ -194,7 +163,28 @@
       <option name="project" value="LOCAL" />
       <updated>1616688767966</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1617134769024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617134769024</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit">
+      <created>1617134781295</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617134781295</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial commit">
+      <created>1617134843785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617134843785</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,7 +217,16 @@
           <line>7</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_04_SumOfChars.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
   </component>
 </project>
