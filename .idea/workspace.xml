@@ -2,9 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_09_SpiceMustFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_10_PokeMon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_01_DataTypeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_02_FromLeftToTheRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_01_Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_02_CommonElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_03_ZigZagArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_04_ArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_05_TopIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_06_EqualSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_08_MagicSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_01_DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_02_PrintNumbersInReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_04_ReverseArrayOfStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_11_SnowBalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_11_SnowBalls.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="proportion" value="0.36914167" />
+  </component>
   <component name="ProjectId" id="1qEyLe0fITxW7Lp5Rw0NZJg6GZc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,15 +47,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="Application.Ex_10_PokeMon">
-    <configuration name="Ex_06_TriplesOfLatinLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_06_TriplesOfLatinLetters" />
+  <component name="RunManager" selected="Application.Ex_06_EqualSums">
+    <configuration name="Ex_02_CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_02_CommonElements" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
+          <option name="PATTERN" value="_03_Arrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_07_WaterOverflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_07_WaterOverflow" />
+    <configuration name="Ex_03_ZigZagArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_03_ZigZagArrays" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
+          <option name="PATTERN" value="_03_Arrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_08_BeerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_08_BeerKegs" />
+    <configuration name="Ex_04_ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_04_ArrayRotation" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
+          <option name="PATTERN" value="_03_Arrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_09_SpiceMustFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_09_SpiceMustFlow" />
+    <configuration name="Ex_05_TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_05_TopIntegers" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
+          <option name="PATTERN" value="_03_Arrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_10_PokeMon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.Exercise.Ex_10_PokeMon" />
+    <configuration name="Ex_06_EqualSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_06_EqualSums" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_02_DataTypesAndVariables.Exercise.*" />
+          <option name="PATTERN" value="_03_Arrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex_10_PokeMon" />
-        <item itemvalue="Application.Ex_09_SpiceMustFlow" />
-        <item itemvalue="Application.Ex_08_BeerKegs" />
-        <item itemvalue="Application.Ex_07_WaterOverflow" />
-        <item itemvalue="Application.Ex_06_TriplesOfLatinLetters" />
+        <item itemvalue="Application.Ex_06_EqualSums" />
+        <item itemvalue="Application.Ex_05_TopIntegers" />
+        <item itemvalue="Application.Ex_04_ArrayRotation" />
+        <item itemvalue="Application.Ex_03_ZigZagArrays" />
+        <item itemvalue="Application.Ex_02_CommonElements" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617291668277</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1617382722193</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617382722193</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,11 +242,25 @@
           <line>11</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_01_DataTypeFinder.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_02_FromLeftToTheRight.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="XPathView.XPathProjectComponent">
     <history />
     <find-history />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
