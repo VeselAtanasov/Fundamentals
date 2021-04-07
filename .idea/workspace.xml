@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_01_DataTypeFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_02_FromLeftToTheRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_01_Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_02_CommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_03_ZigZagArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_04_ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_05_TopIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_06_EqualSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_08_MagicSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_01_DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_02_PrintNumbersInReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_04_ReverseArrayOfStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_11_SnowBalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_11_SnowBalls.java" afterDir="false" />
-    </list>
+    <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
