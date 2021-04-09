@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_03_FloatingEquality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_04_RefactoringPrimeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_05_DecryptingMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_06_BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_07_MaxSequenceOfEqualElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_09_CaminoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Exercise/Ex_10_LadyBug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_03_SumEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_05_EvenAndOddSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_06_EqualArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_03_Arrays/Lab/Ex_07_CondenseArrayToNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals/_02_DataTypesAndVariables/Exercise/Ex_11_SnowBalls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fundamentals/_02_DataTypesAndVariables/Exercise/Ex_11_SnowBalls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals/_02_DataTypesAndVariables/MoreExercise/Ex_02_FromLeftToTheRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fundamentals/_02_DataTypesAndVariables/MoreExercise/Ex_02_FromLeftToTheRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fundamentals/_03_Arrays/Exercise/Ex_06_EqualSums.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fundamentals/_03_Arrays/Exercise/Ex_06_EqualSums.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_02_FromLeftToTheRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_02_FromLeftToTheRight.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,12 +48,42 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.38965517" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager" selected="Application.Ex_06_EqualSums">
-    <configuration name="Ex_02_CommonElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_02_CommonElements" />
+  <component name="RunManager" selected="Application.Ex_10_LadyBug">
+    <configuration name="Ex_06_BalancedBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_02_DataTypesAndVariables.MoreExercise.Ex_06_BalancedBrackets" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_02_DataTypesAndVariables.MoreExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_07_CondenseArrayToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Lab.Ex_07_CondenseArrayToNumber" />
+      <module name="Fundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_03_Arrays.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex_07_MaxSequenceOfEqualElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_07_MaxSequenceOfEqualElements" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -48,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_03_ZigZagArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_03_ZigZagArrays" />
+    <configuration name="Ex_09_CaminoFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_09_CaminoFactory" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -61,34 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex_04_ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_04_ArrayRotation" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_03_Arrays.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_05_TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_05_TopIntegers" />
-      <module name="Fundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="_03_Arrays.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex_06_EqualSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_06_EqualSums" />
+    <configuration name="Ex_10_LadyBug" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_03_Arrays.Exercise.Ex_10_LadyBug" />
       <module name="Fundamentals" />
       <extension name="coverage">
         <pattern>
@@ -102,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex_06_EqualSums" />
-        <item itemvalue="Application.Ex_05_TopIntegers" />
-        <item itemvalue="Application.Ex_04_ArrayRotation" />
-        <item itemvalue="Application.Ex_03_ZigZagArrays" />
-        <item itemvalue="Application.Ex_02_CommonElements" />
+        <item itemvalue="Application.Ex_10_LadyBug" />
+        <item itemvalue="Application.Ex_09_CaminoFactory" />
+        <item itemvalue="Application.Ex_07_MaxSequenceOfEqualElements" />
+        <item itemvalue="Application.Ex_07_CondenseArrayToNumber" />
+        <item itemvalue="Application.Ex_06_BalancedBrackets" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617382722193</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial commit">
+      <created>1617816982856</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617816982856</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,16 +254,6 @@
           <url>file://$PROJECT_DIR$/src/_02_DataTypesAndVariables/Exercise/Ex_04_SumOfChars.java</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_01_DataTypeFinder.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/_02_DataTypesAndVariables/MoreExercise/Ex_02_FromLeftToTheRight.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
