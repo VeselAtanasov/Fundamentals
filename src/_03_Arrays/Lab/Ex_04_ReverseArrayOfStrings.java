@@ -13,9 +13,8 @@ public class Ex_04_ReverseArrayOfStrings {
             String temp = input[i];
             input[i] = input[input.length - i - 1];
             input[input.length - i - 1] = temp;
- 
         }
-
         System.out.println(String.join(" ", input));
     }
 }
+

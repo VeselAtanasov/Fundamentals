@@ -8,7 +8,6 @@ public class Ex_02_FromLeftToTheRight {
         Scanner scanner = new Scanner(System.in);
 
         int linesCount = Integer.parseInt(scanner.nextLine());
-
         for (int i = 1; i <= linesCount; i++) {
             double num1 = Double.parseDouble(scanner.next());
             double num2 = Double.parseDouble(scanner.next());
