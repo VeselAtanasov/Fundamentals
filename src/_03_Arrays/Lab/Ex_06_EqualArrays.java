@@ -11,6 +11,16 @@ public class Ex_06_EqualArrays {
         int[] numbers = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(e -> Integer.parseInt(e)).toArray();
         int[] numbers2 = Arrays.stream(scanner.nextLine().split(" ")).mapToInt(e -> Integer.parseInt(e)).toArray();
 
+<<<<<<< HEAD
+=======
+//        String input = scanner.nextLine();
+//        String[] splitInput = input.split(" ");
+//        int secondArray[] = new int[splitInput.length];
+//        for (int i = 0; i < splitInput.length; i++) {
+//            secondArray[i] = Integer.parseInt(splitInput[i]);
+//        }
+
+>>>>>>> origin/master
         int sum = 0;
         boolean areIdentical = true;
 
