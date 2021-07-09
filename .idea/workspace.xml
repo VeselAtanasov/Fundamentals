@@ -1,72 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Exercise/Ex_01_AdvertisementMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Exercise/Ex_02_Articles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Exercise/Ex_03_OpinionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Exercise/Ex_04_Articles2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Exercise/Ex_05_Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Exercise/Ex_06_VehicleCatalogue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Exercise/Ex_07_OrderByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Lab/Ex_01_RandomizeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Lab/Ex_02_SumBigNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Lab/Ex_03_BigFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Lab/Ex_04_Songs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Lab/Ex_05_Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/Lab/Ex_06_Students2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/MoreExercise/Ex_01_CompanyRoster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/MoreExercise/Ex_02_RawData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/MoreExercise/Ex_03_CarSalesman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_06_ObjectsAndClasses/MoreExercise/Ex_04_TeamworkProjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Arrays/MoreExercise/Ex_02_PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Arrays/MoreExercise/Ex_02_PascalTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_01_SmallestOfThreeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_01_SmallestOfThreeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_02_VowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_02_VowelsCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_03_CharactersInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_03_CharactersInRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_04_PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_04_PasswordValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_05_AddAndSubtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_05_AddAndSubtract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_06_MiddleCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_06_MiddleCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_07_NxNMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_07_NxNMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_08_FactorialDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_08_FactorialDivision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_09_PalindromeIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_09_PalindromeIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_10_TopNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_10_TopNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_11_ArrayManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Exercise/Ex_11_ArrayManipulator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_01_SignOfIntegerNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_01_SignOfIntegerNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_02_Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_02_Grades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_03_PrintingTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_03_PrintingTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_04_Calculations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_04_Calculations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_05_Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_05_Orders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_06_CalculateRectangleArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_06_CalculateRectangleArea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_07_RepeatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_07_RepeatString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_08_MathPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_08_MathPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_09_GreaterOfTwoValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_09_GreaterOfTwoValues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_10_MultiplyEvensByOdds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_10_MultiplyEvensByOdds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_11_MathOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/Lab/Ex_11_MathOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_01_DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_01_DataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_02_CenterPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_02_CenterPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_03_LongerLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_03_LongerLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_04_TribonacciSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_04_TribonacciSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_05_MultiplicationSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_Methods/MoreExercise/Ex_05_MultiplicationSign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_01_Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_01_Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_02_ChangeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_02_ChangeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_03_HouseParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_03_HouseParty.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_04_ListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_04_ListOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_05_BombNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_05_BombNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_06_CardsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_06_CardsGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_07_AppendArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_07_AppendArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_08_AnonymousThreat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_08_AnonymousThreat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_09_PokemonDontGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_09_PokemonDontGo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_10_SoftUniCoursePlanning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Exercise/Ex_10_SoftUniCoursePlanning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_01_SumAdjacentEqualNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_01_SumAdjacentEqualNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_02_GaussTrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_02_GaussTrick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_03_MergingLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_03_MergingLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_04_ListManipulationBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_04_ListManipulationBasics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_05_ListManipulationAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_05_ListManipulationAdvanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_06_ListOfProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_06_ListOfProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_07_RemoveNegativesAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/Lab/Ex_07_RemoveNegativesAndReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_05_Lists/MoreExercise/Ex_01_Messaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_05_Lists/MoreExercise/Ex_01_Messaging.java" afterDir="false" />
-    </list>
+    <list default="true" id="1cb15e3f-54b6-483d-964d-324c35508b30" name="Default Changelist" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -268,7 +203,28 @@
       <option name="project" value="LOCAL" />
       <updated>1623953448392</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Initial commit">
+      <created>1625854637145</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1625854637145</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Initial commit">
+      <created>1625854649095</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1625854649095</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Initial commit">
+      <created>1625854661536</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1625854661536</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
